@@ -1,12 +1,12 @@
 ---
-excerpt: ""
+excerpt: "03 April 2020, Amsterdam"
 
 header:
-  overlay_color: "#cd003a"
 
-  overlay_filter: rgba(0, 0, 0, 0.7)
+  overlay_image: /assets/imgs/cwi_front2.jpeg
+  overlay_filter: rgba(0, 0, 0, 0.5)
   actions:
-      - label: "Register [GoogleForms]"
+      - label: "Register"
         url: "X"
 sidebar:
   - title: "Date & Time"
@@ -19,18 +19,28 @@ sidebar:
 layout: single
 title: Pre-CHI Event @ CWI
 ---
+<!-- overlay_color: "#cd003a" -->
+<!--
+ Following in spirit the Scottish and German traditions of meeting fellow HCI folks going to CHI, we are continuing our initative in bringing the HCI community in the Netherlands together. The idea of this event is to provide an opportunity for researchers to present their accepted CHI papers and discuss them in a smaller circle. Additionally, it provides an excellent opportunity for younger researchers to get a taste of the quality of work presented at CHI and network with other peers, as well as senior researchers. Therefore, everyone from students to professors interested in HCI is welcome.
 
-<!-- overlay_image: /assets/imgs/meec_splash.png -->
+If you would like to participate as a presenter or attendee, please fill the form to pre-register by clicking the link below. Filling out the form is a preliminary registration. Once we have an approximate estimate of the participants, we will send a registration confirmation to the email address provided.
 
-The second pre-chi event at Centrum Wiskunde &amp; Informatica (CWI) will take place on April 3rd, 2020 at CWI in Amsterdam. Join us for a day of CHI paper talks, LBW presentations, and networking with fellow HCI researchers in the Netherlands.
 
-We will provide coffee and lunch during the day, and later we can enjoy dinner and drinks in Amsterdam (location TBA). If you would like to present CHI 2020 work (paper, case study, LBW, etc.), please get in touch -- we still have some slots available. A preliminary program can be found [here](program).
+== -->
 
-Please <a href="link" target="\_blank" >register </a> to help us organize the catering process.
+The second pre-chi event at Centrum Wiskunde &amp; Informatica (CWI) will take place on April 3rd, 2020.
+
+Following in spirit the Scottish and German traditions of meeting fellow HCI folks going to CHI, this year we are continuing this initiative of bringing the HCI community in the Netherlands together. The aim is to provide an opportunity for researchers to present their accepted CHI works, and discuss them in a smaller and cosier manner than what the enormity and madness of the CHI ship allows.
+
+Join us for a day of exciting CHI 2020 talks and networking with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists interested in HCI is welcome. We will provide coffee and lunch during the day, and later we can enjoy dinner and drinks in Amsterdam (location TBA).
+
+If you would like to participate as a presenter (paper, LBW, demo, ...) or attendee, please fill the form to pre-register by clicking the link below. We still have some slots available. A preliminary program can be found [here](program).
+
+Please <a href="link" target="\_blank" >register </a> to help us organize an exciting (and fun) pre-chi event!
 
 
 ## Contact
 
-For any additional questions, please contact us at [aea@cwi.nl](mailto:aea@cwi.nl)
+For any additional questions, please contact Abdallah El Ali ([aea@cwi.nl](mailto:aea@cwi.nl)).
 
 <a href="https://www.dis.cwi.nl/"><img src="./assets/imgs/logos/cwi.png" width="140"></a>
