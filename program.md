@@ -11,7 +11,7 @@ layout: single
 title: Pre-CHI Event @ CWI
 ---
 
-## Schedule
+## Preliminary Schedule
 
 ### 11:00 - Welcome &amp; Coffee
 

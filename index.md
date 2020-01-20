@@ -32,11 +32,17 @@ The second pre-chi event at Centrum Wiskunde &amp; Informatica (CWI) will take p
 
 Following in spirit the Scottish and German traditions of meeting fellow HCI folks going to CHI, this year we are continuing this initiative of bringing the HCI community in the Netherlands together. The aim is to provide an opportunity for researchers to present their accepted CHI works, and discuss them in a smaller and cosier manner than what the enormity and madness of the CHI ship allows.
 
-Join us for a day of exciting CHI 2020 talks and networking with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists interested in HCI is welcome. We will provide coffee and lunch during the day, and later we can enjoy dinner and drinks in Amsterdam (location TBA).
+Join us for a day of exciting CHI 2020 talks and networking with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists interested in HCI is welcome. We will provide coffee and lunch during the day, and later we can enjoy dinner and drinks in Amsterdam (location `TBA`).
 
 If you would like to participate as a presenter (paper, LBW, demo, ...) or attendee, please fill the form to pre-register by clicking the link below. We still have some slots available. A preliminary program can be found [here](program).
 
 Please <a href="link" target="\_blank" >register </a> to help us organize an exciting (and fun) pre-chi event!
+
+## Directions
+
+<a href="https://www.cwi.nl/about/contact/how-reach-cwi-public-transport" target="\_blank" >How to reach CWI by public transport </a> <br/>
+<a href="https://www.cwi.nl/about/contact/how-reach-cwi-car/default-page" target="\_blank" >How to reach CWI by car</a>
+
 
 
 ## Contact

@@ -1,13 +1,13 @@
 
-title: "Pre-CHI event 2020"
+title: "Pre-CHI Event 2020"
 logo: "./assets/imgs/logo1.png"
-description: "Pre-CHI day 2020 at CWI"
+description: "Pre-CHI Event 2020 at CWI"
 
 # minimal_mistakes_skin: "contrast"
 search: false
 
 author:
-  name     : "Pre-CHI day 2020"
+  name     : "Pre-CHI event 2020"
   avatar   : "./assets/imgs/logo2.png"
   bio      : "Something"
   location : "Somewhere"
