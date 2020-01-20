@@ -1,5 +1,5 @@
 
-title: "Pre-CHI day 2020"
+title: "Pre-CHI event 2020"
 logo: "./assets/imgs/logo1.png"
 description: "Pre-CHI day 2020 at CWI"
 
@@ -7,7 +7,7 @@ description: "Pre-CHI day 2020 at CWI"
 search: false
 
 author:
-  name     : "MEEC 2020 WS"
+  name     : "Pre-CHI day 2020"
   avatar   : "./assets/imgs/logo2.png"
   bio      : "Something"
   location : "Somewhere"

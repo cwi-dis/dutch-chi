@@ -5,7 +5,7 @@ main:
   #   url: /goals.html
   # - title: "call for papers"
   #   url: /callforpapers.html
-  # - title: "program"
-  #   url: /program.html
+  - title: "program"
+    url: /program.html
   # - title: "organizers"
   #   url: /committee.html
