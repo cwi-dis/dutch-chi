@@ -19,9 +19,9 @@ title: Pre-CHI Event @ CWI
 
 ### 11:30 - Paper Session 1
 
-- Paper 1 - reserved
-- Paper 2 - reserved
-- Paper 3 - reserved
+- Paper 1
+- Paper 2
+- Paper 3
 
 ---
 ### 12:30 - [LUNCH]
@@ -29,14 +29,14 @@ title: Pre-CHI Event @ CWI
 
 ### 13:30 - Paper Session 2
 
-- Paper 4 - reserved
-- Paper 5 - reserved
-- Paper 6 - OPEN
+- Paper 4
+- Paper 5
+- Paper 6
 
-### 14:30 - LBW Session
+### 14:30 - LBW / Demo Session
 
-- LBW 1 - TBA
-- LBW 2 - TBA
+- LBW 1
+- LBW 2
 - [...]
 
 ### 15:30 - [COFFEE BREAK]
