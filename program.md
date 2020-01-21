@@ -11,6 +11,8 @@ layout: single
 title: Pre-CHI Event @ CWI
 ---
 
+Please <a href="https://forms.gle/TqR1QZuLj6M683g39" target="\_blank" >register </a> to participate.
+
 ## Preliminary Schedule
 
 ### 11:00 - Welcome &amp; Coffee
@@ -38,11 +40,11 @@ title: Pre-CHI Event @ CWI
 
 ### 15:30 - [COFFEE BREAK]
 
-### 16:00 - Outreach Session
+### 16:00 - HCI Outreach Session
 
-- External HCI talk 1 - Presenter 1
-- External HCI talk 2 - Presenter 2
-- External HCI talk 3 - Presenter 3
+- HCI outreach talk 1 - Presenter 1
+- HCI outreach talk 2 - Presenter 2
+- HCI outreach talk 3 - Presenter 3
 - [...]
 
 ### 17:00 - WRAP UP

@@ -7,7 +7,7 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   actions:
       - label: "Register"
-        url: "X"
+        url: "https://forms.gle/TqR1QZuLj6M683g39"
 sidebar:
   - title: "Date & Time"
     image_alt: ""
@@ -30,13 +30,13 @@ If you would like to participate as a presenter or attendee, please fill the for
 
 The second pre-chi event at Centrum Wiskunde &amp; Informatica (CWI) will take place on April 3rd, 2020.
 
-Following in spirit the Scottish and German traditions of meeting fellow HCI folks going to CHI, this year we are continuing this initiative of bringing the HCI community in the Netherlands together. The aim is to provide an opportunity for researchers to present their accepted CHI works, and discuss them in a smaller and cosier manner than what the enormity and madness of the CHI ship allows.
+Following in spirit the Scottish and German traditions of meeting fellow HCI folks going to CHI, this year we are continuing this initiative of bringing the HCI community in the Netherlands together. The aim is to provide an opportunity for researchers to present their accepted CHI works, and discuss them in a smaller and cozier manner than what the enormity and madness of the CHI ship allows. We also plan on reserving time for HCI outreach talks, where we can all hear more about the different HCI activities in the Netherlands. This could be a broad research or educational overview of HCI activities at your institution. We plan on allocating 10-15 min. per speaker.
 
-Join us for a day of exciting CHI 2020 talks and networking with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists interested in HCI is welcome. We will provide coffee and lunch during the day, and later we can enjoy dinner and drinks in Amsterdam (location `TBA`).
+Join us for a day of exciting CHI 2020 talks and networking with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists is welcome. We will provide coffee and lunch during the day, and later we can enjoy dinner and drinks in Amsterdam (location `TBA`).
 
-If you would like to participate as a presenter (paper, LBW, demo, ...) or attendee, please fill the form to pre-register by clicking the link below. We still have some slots available. A preliminary program can be found [here](program).
+If you would like to participate as a presenter (CHI work: paper, case study, LBW, demo, ...), presenter (HCI outreach), or attendee, please fill the form to register by clicking the link below. We still have some slots available. A preliminary program can be found [here](program).
 
-Please <a href="link" target="\_blank" >register </a> to help us organize an exciting (and fun) pre-chi event!
+Please <a href="https://forms.gle/TqR1QZuLj6M683g39" target="\_blank" >register </a> to help us organize an exciting (and fun) pre-chi event!
 
 ## Directions
 
