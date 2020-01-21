@@ -24,7 +24,7 @@ The second pre-chi event at Centrum Wiskunde &amp; Informatica (CWI) will take p
 
 <a href="https://www.dis.cwi.nl/"><img src="./assets/imgs/logos/cwi.png" width="140"></a>
 
-## What's this Pre-CHI event?!
+## What is a Pre-CHI event?
 
 Following the Scottish and German spirit of meeting fellow HCI folks going to CHI, this year we again aim at bringing the HCI community in the Netherlands together. The goal is to provide an opportunity for researchers to present their accepted CHI 2020 works, and discuss them in a smaller and cozier manner than what the enormity and madness of the CHI ship allows. We also plan on reserving time for HCI outreach talks, where we can all hear more about the different HCI activities in the Netherlands. This could be a broad research or educational overview of HCI activities at your institution. We plan on allocating 10-15 min. per speaker.
 
