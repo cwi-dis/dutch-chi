@@ -19,9 +19,9 @@ title: Pre-CHI Event @ CWI
 
 ### 11:30 - Paper Session 1
 
-- Paper 1 title - author 1 (affil), author 2 (affil), ...
-- Paper 2 title - author 1 (affil), author 2 (affil), ...
-- Paper 3 title - author 1 (affil), author 2 (affil), ...
+- Paper 1 - reserved
+- Paper 2 - reserved
+- Paper 3 - reserved
 
 ---
 ### 12:30 - [LUNCH]
@@ -29,14 +29,15 @@ title: Pre-CHI Event @ CWI
 
 ### 13:30 - Paper Session 2
 
-- Paper 4 title - author 1 (affil), author 2 (affil), ...
-- Paper 5 title - author 1 (affil), author 2 (affil), ...
-- Paper 6 title - author 1 (affil), author 2 (affil), ...
+- Paper 4 - reserved
+- Paper 5 - reserved
+- Paper 6 - OPEN
 
 ### 14:30 - LBW Session
 
-- LBW 1 title - author 1 (affil), author 2 (affil), ...
-- LBW 2 title - author 1 (affil), author 2 (affil), ...
+- LBW 1 - TBA
+- LBW 2 - TBA
+- [...]
 
 ### 15:30 - [COFFEE BREAK]
 
@@ -44,7 +45,6 @@ title: Pre-CHI Event @ CWI
 
 - HCI outreach talk 1 - Presenter 1
 - HCI outreach talk 2 - Presenter 2
-- HCI outreach talk 3 - Presenter 3
 - [...]
 
 ### 17:00 - WRAP UP
