@@ -43,12 +43,12 @@ title: Pre-CHI Event @ CWI
 
 ### 16:00 - HCI Outreach Session
 
-- HCI outreach talk 1 - Presenter 1
-- HCI outreach talk 2 - Presenter 2
+- HCI outreach talk 1
+- HCI outreach talk 2
 - [...]
 
 ### 17:00 - WRAP UP
 
 ### 17:30 - DRINKS &amp; DINNER
 
-- Location: TBD
+- Location: TBA
