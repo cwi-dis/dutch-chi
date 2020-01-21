@@ -34,9 +34,15 @@ Following in spirit the Scottish and German traditions of meeting fellow HCI fol
 
 Join us for a day of exciting CHI 2020 talks and networking with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists is welcome. We will provide coffee and lunch during the day, and later we can enjoy dinner and drinks in Amsterdam (location `TBA`).
 
-If you would like to participate as a presenter (CHI work: paper, case study, LBW, demo, ...), presenter (HCI outreach), or attendee, please fill the form to register by clicking the link below. We still have some slots available. A preliminary program can be found [here](program).
+## How to participate
 
-Please <a href="https://forms.gle/TqR1QZuLj6M683g39" target="\_blank" >register </a> to help us organize an exciting (and fun) pre-chi event!
+If you would like to participate as a presenter (CHI work: paper, LBW, demo, ...), presenter (HCI outreach), or attendee, please fill the form to register by clicking the link below. We still have some slots available. A preliminary program can be found [here](program).
+
+Please register to help us organize an exciting (and fun) pre-chi event!
+
+[REGISTER](https://forms.gle/TqR1QZuLj6M683g39){: .btn .btn--warning}{:target="\_blank"}
+<!--
+Please <a href="https://forms.gle/TqR1QZuLj6M683g39" target="\_blank" >register </a> to help us organize an exciting (and fun) pre-chi event! -->
 
 ## Directions
 

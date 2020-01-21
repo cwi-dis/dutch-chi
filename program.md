@@ -11,7 +11,7 @@ layout: single
 title: Pre-CHI Event @ CWI
 ---
 
-Please <a href="https://forms.gle/TqR1QZuLj6M683g39" target="\_blank" >register </a> to participate.
+[REGISTER](https://forms.gle/TqR1QZuLj6M683g39){: .btn .btn--warning}{:target="\_blank"}
 
 ## Preliminary Schedule
 
