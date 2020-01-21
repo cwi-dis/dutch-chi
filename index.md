@@ -3,8 +3,8 @@ excerpt: "03 April 2020, Amsterdam"
 
 header:
 
-  overlay_image: /assets/imgs/cwi_front2.jpeg
-  overlay_filter: rgba(0, 0, 0, 0.5)
+  overlay_image: /assets/imgs/cwi_1.jpg
+  overlay_filter: rgba(0, 0, 0, 0.3)
   actions:
       - label: "Register"
         url: "https://forms.gle/TqR1QZuLj6M683g39"
@@ -20,9 +20,13 @@ layout: single
 title: Pre-CHI Event @ CWI
 ---
 
-The second pre-chi event at Centrum Wiskunde &amp; Informatica (CWI) will take place on April 3rd, 2020.
+The second pre-chi event at Centrum Wiskunde &amp; Informatica (CWI) will take place on Friday, April 3, 2020.
 
-Following the Scottish and German spirit of meeting fellow HCI folks going to CHI, this year we are again bringing the HCI community in the Netherlands together. The aim is to provide an opportunity for researchers to present their accepted CHI 2020 works, and discuss them in a smaller and cozier manner than what the enormity and madness of the CHI ship allows. We also plan on reserving time for HCI outreach talks, where we can all hear more about the different HCI activities in the Netherlands. This could be a broad research or educational overview of HCI activities at your institution. We plan on allocating 10-15 min. per speaker.
+<a href="https://www.dis.cwi.nl/"><img src="./assets/imgs/logos/cwi.png" width="140"></a>
+
+## What's this Pre-CHI event?!
+
+Following the Scottish and German spirit of meeting fellow HCI folks going to CHI, this year we again aim at bringing the HCI community in the Netherlands together. The goal is to provide an opportunity for researchers to present their accepted CHI 2020 works, and discuss them in a smaller and cozier manner than what the enormity and madness of the CHI ship allows. We also plan on reserving time for HCI outreach talks, where we can all hear more about the different HCI activities in the Netherlands. This could be a broad research or educational overview of HCI activities at your institution. We plan on allocating 10-15 min. per speaker.
 
 Join us for a day of exciting CHI 2020 talks and networking with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists is welcome. We will provide coffee and lunch during the day, and later we can enjoy dinner and drinks in Amsterdam (location `TBA`).
 
