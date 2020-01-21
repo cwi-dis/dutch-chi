@@ -20,7 +20,7 @@ layout: single
 title: Pre-CHI Event @ CWI
 ---
 
-The second pre-chi event at Centrum Wiskunde &amp; Informatica (CWI) will take place on Friday, April 3, 2020.
+The second pre-chi event at Centrum Wiskunde &amp; Informatica (CWI) will take place on **Friday, April 3, 2020**.
 
 <a href="https://www.dis.cwi.nl/"><img src="./assets/imgs/logos/cwi.png" width="140"></a>
 

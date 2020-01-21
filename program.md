@@ -11,7 +11,7 @@ layout: single
 title: Pre-CHI Event @ CWI
 ---
 
-Please register by March 6, 2020.
+Please register by **March 6, 2020**.
 
 [REGISTER](https://forms.gle/TqR1QZuLj6M683g39){: .btn .btn--warning}{:target="\_blank"}
 
