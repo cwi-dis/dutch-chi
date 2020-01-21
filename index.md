@@ -34,7 +34,7 @@ Join us for a day of exciting CHI 2020 talks and networking with fellow HCI rese
 
 If you would like to participate as a presenter (CHI work: paper, LBW, demo, ...), presenter (HCI outreach), or attendee, please fill the form to register by clicking the link below. We still have some slots available. A preliminary program can be found [here](program).
 
-Please register to help us organize an exciting (and fun) pre-chi event!
+Please register by **March 6, 2020** to help us organize an exciting (and fun) pre-chi event!
 
 [REGISTER](https://forms.gle/TqR1QZuLj6M683g39){: .btn .btn--warning}{:target="\_blank"}
 <!--

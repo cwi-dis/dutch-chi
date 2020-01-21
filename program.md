@@ -11,11 +11,13 @@ layout: single
 title: Pre-CHI Event @ CWI
 ---
 
+Please register by March 6, 2020.
+
 [REGISTER](https://forms.gle/TqR1QZuLj6M683g39){: .btn .btn--warning}{:target="\_blank"}
 
 ## Preliminary Schedule
 
-### 11:00 - Welcome &amp; Coffee
+### 11:00 - *Welcome &amp; Coffee*
 
 ### 11:30 - Paper Session 1
 
@@ -24,7 +26,7 @@ title: Pre-CHI Event @ CWI
 - Paper 3
 
 ---
-### 12:30 - [LUNCH]
+### 12:30 - *Lunch*
 ---
 
 ### 13:30 - Paper Session 2
@@ -39,16 +41,17 @@ title: Pre-CHI Event @ CWI
 - LBW 2
 - [...]
 
-### 15:30 - [COFFEE BREAK]
-
+---
+### 15:30 - *Coffee Break*
+---
 ### 16:00 - HCI Outreach Session
 
 - HCI outreach talk 1
 - HCI outreach talk 2
 - [...]
 
-### 17:00 - WRAP UP
-
-### 17:30 - DRINKS &amp; DINNER
+### 17:00 - *Wrap Up*
+---
+### 17:30 - *Drinks &amp; Dinner*
 
 - Location: TBA
