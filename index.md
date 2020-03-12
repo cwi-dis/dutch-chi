@@ -19,6 +19,11 @@ sidebar:
 layout: single
 title: Pre-CHI Event @ CWI
 ---
+## <span style="color:red"> COVID-19 Update </span>
+
+<span style="color:red">We are closely monitoring the situation, and we will make a statement by mid-next week latest. Stay home and be safe everyone! ~Abdallah </span>
+
+---
 
 The second pre-chi event at Centrum Wiskunde &amp; Informatica (CWI) will take place on **Friday, April 3, 2020**.
 

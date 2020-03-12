@@ -54,9 +54,10 @@ Please register by **March 6, 2020**.
 ---
 ### 16:00 - HCI Outreach Session
 
-- Lars Lischke (VU)
-- XYZ (TU Delft)
-- XYZ (TU Eindhoven)
+- Lars Lischke (Vrije Universiteit Amsterdam)
+- Gerd Korteum (Delft University of Technology)
+- Minha Lee (Eindhoven University of Technology)
+- XYZ (Utrecht University)
 
 ### 16:30 - Distributed & Interactive Systems (DIS) lab visit
 
