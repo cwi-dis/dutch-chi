@@ -21,7 +21,7 @@ title: Pre-CHI Event @ CWI
 ---
 ## <span style="color:red"> COVID-19 Update </span>
 
-<span style="color:red">We are closely monitoring the situation, and we will make a statement by mid-next week latest. Stay home and be safe everyone! ~Abdallah </span>
+<span style="color:red">We are closely monitoring the situation, and we will make a statement by mid-next week latest. Stay home and be safe everyone! ~Abdallah  </span>
 
 ---
 
