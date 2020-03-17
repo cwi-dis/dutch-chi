@@ -21,7 +21,11 @@ title: Pre-CHI Event @ CWI
 ---
 ## <span style="color:red"> COVID-19 Update </span>
 
-<span style="color:red">We are closely monitoring the situation, and we will make a statement by mid-next week latest. Stay home and be safe everyone! ~Abdallah  </span>
+<span style="color:red">In light the recent COVID-19 global health crisis, and given the latest updates and protocols enacted by RIVM to limit public gatherings to ensure our safety and wellbeing, we unfortunately have to cancel this year’s Pre-CHI Event NL 2020 at CWI.</span>
+
+<span style="color:red">Wish you all a safe and healthy time ahead, <br>
+--Abdallah
+</span>
 
 ---
 
