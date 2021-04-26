@@ -1,14 +1,14 @@
 ---
 sidebar:
-  - title: "Date & Time"
+  - title: "Dates"
     image_alt: ""
-    text: "11:00-17:00 <br/> 03-April-2020"
+    text: "June 9-10, 2021"
   - title: "Where:"
     image_alt: ""
-    text: <a href="https://goo.gl/maps/a5i27kuFb2mpfvrM8" target="_blank">CWI, Science Park 123 <br/> 1098 XG, Amsterdam </a>
+    text: Virtual
 
 layout: single
-title: Pre-CHI Event @ CWI
+title: Dutch Post-CHI 2021
 ---
 
 Please register by **March 6, 2020**.
@@ -19,51 +19,38 @@ Please register by **March 6, 2020**.
 
 ### 11:00 - *Welcome &amp; Coffee*
 
-### 11:30 - Paper Session 1 (Session chair: Pablo Cesar)
+### 11:30 - Paper Session 1 (Session chair: XX)
 
-- **RCEA: Real-time, Continuous Emotion Annotation for Collecting Precise Mobile Video Ground Truth Labels.** <span style="color:#f07178">Tianyi Zhang (CWI / TU Delft)</span>, Abdallah El Ali (CWI), Chen Wang (Xinhuanet), Alan Hanjalic (TU Delft), Pablo Cesar (CWI / TU Delft)
+- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
 
-- **ThermalWear: Exploring Wearable On-chest Thermal Displays to Augment Voice Messages with Affect.** <span style="color:#f07178">Abdallah El Ali (CWI)</span>, Xingyu Yang (TU Delft), Swamy Ananthanarayan (Uni Oldenburg), Thomas Röggla (CWI), Jack Jansen (CWI), Jess Hartcher-O'Brien (TU Delft), Kaspar Jansen (TU Delft), Pablo Cesar (CWI / TU Delft)
+- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
 
-- **Improving Worker Engagement Through Conversational Microtask Crowdsourcing.** <span style="color:#f07178">Sihang Qiu (TU Delft)</span>, Ujwal Gadiraju (TU Delft), Alessandro Bozzon (TU Delft)
+- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
 
 ---
-### 12:30 - *Lunch*
+### 12:30 - *Break*
 ---
 
-### 13:30 - Paper Session 2 (Session chair: Abdallah El Ali)
+### 13:30 - Paper Session 2 (Session chair: XX)
 
-- **Color and Animation Preferences for a Light Band eHMI in Interactions Between Automated Vehicles and Pedestrians.** <span style="color:#f07178">Dey, Debargha (TU Eindhoven)</span>, Habibovic, Azra (RISE Gothenburg), Pfleging, Bastian (TU Eindhoven/ LMU Munich), Martens, Marieke (TU Eindhoven), Terken, Jacques (TU Eindhoven)
+- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
 
-- **WindowWall: Towards Adaptive Buildings with Interactive Windows as Ubiquitous Displays.** Patrick  Bader (Uni. Stuttgart), Alexandra Voit (Uni. Stuttgart), Huy Viet Le (Uni. Stuttgart), <span style="color:#f07178">Paweł W. Woźniak (Uni Utrecht)</span>, Niels Henze (Uni. Regensburg), Albrecht Schmidt (LMU Munich)
+- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
 
-- **The Effects of Explicit Intention Communication, Conspicuous Sensors, and Pedestrian Attitude in Interactions with Automated Vehicles.** ﻿Ackermans, Sander (TU Eindhoven), <span style="color:#f07178">Dey, Debargha (TU Eindhoven)</span>, Ruijten, Peter (TU Eindhoven), Cuijpers, Raymond H (TU Eindhoven), Pfleging, Bastian (TU Eindhoven)
+- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
 
 
 ### 14:30 - Late Breaking Works Session
 
-- **Designing Real-time, Continuous Emotion Annotation Techniques for 360° VR Videos.** <span style="color:#f07178">Tong Xue (CWI / Beijing Institute of Technology)</span>, Surjya Ghosh (CWI), Gangyi Ding (Beijing Institute of Technology), Abdallah El Ali (CWI), Pablo Cesar (CWI / TU Delft)
+- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
 
-- **Designing a Social VR Clinic for Remote Consultation.** <span style="color:#f07178">Jie Li (CWI)</span>, Guo Chen (TU Delft), Huib de Ridder (TU Delft), Pablo Cesar (CWI / TU Delft)
+- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
 
-- **Towards Improving Emotion Self-report Collection using Self-reflection.** <span style="color:#f07178">Surjya Ghosh (CWI)</span>, Bivas Mitra (IIT Kharagpur), and Pradipta De (Georgia Southern University)
-
+- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
 
 ---
 ### 15:30 - *Coffee Break*
----
-### 16:00 - HCI Outreach Session
-
-- Lars Lischke (Vrije Universiteit Amsterdam)
-- Gerd Korteum (Delft University of Technology)
-- Minha Lee (Eindhoven University of Technology)
-- XYZ (Utrecht University)
-
-### 16:30 - Distributed & Interactive Systems (DIS) lab visit
-
 
 ### 17:00 - *Wrap Up*
 ---
-### 17:30 - *Drinks &amp; Dinner*
-
-- Location: TBA
+### 17:30 - *Social event*

@@ -1,14 +1,14 @@
 
-title: "Pre-CHI NL 2020"
-logo: "./assets/imgs/logo1.png"
-description: "Pre-CHI Event 2020 at CWI"
+title: "Dutch Post-CHI 2021"
+logo: "./assets/imgs/chi2021.png"
+description: "Dutch Post-CHI Event 2021"
 
 # minimal_mistakes_skin: "contrast"
 search: false
 
 author:
-  name     : "Pre-CHI event 2020"
-  avatar   : "./assets/imgs/logo2.png"
+  name     : "CHI NL"
+  avatar   : "./assets/imgs/chi_nl_logo.png"
   bio      : "Something"
   location : "Somewhere"
 
