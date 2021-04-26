@@ -20,11 +20,6 @@ layout: single
 title: Dutch Post-CHI 2021
 ---
 
-<<<<<<< HEAD
-=======
-<span style="color:red">In light of the recent COVID-19 global health crisis, and given the latest updates and protocols enacted by RIVM to limit public gatherings to ensure our safety and wellbeing, we unfortunately have to cancel this year’s Pre-CHI Event NL 2020 at CWI.</span>
->>>>>>> 262599dcdfd8a0f281b694177bcef651256402cd
-
 The Dutch Post-CHI event will take place virtually on **June 9-10, 2021**.
 
 <a href="https://www.dis.cwi.nl/"><img src="./assets/imgs/chi_nl_logo.png" width="100"></a>
