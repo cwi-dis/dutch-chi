@@ -4,10 +4,11 @@ excerpt: "9-10 June 2021"
 header:
 
   overlay_image: /assets/imgs/bg_overlay_freepik.jpg
+  caption: "Credit: starline (freepik.com)"
   overlay_filter: rgba(0, 0, 0, 0.3)
   actions:
       - label: "Register"
-        url: "https://forms.gle/TqR1QZuLj6M683g39"
+        url: "https://forms.gle/AtJaCva57YxfUQKE6"
 sidebar:
   - title: "Dates"
     image_alt: ""
@@ -22,28 +23,41 @@ title: Dutch Post-CHI 2021
 
 The Dutch Post-CHI event will take place virtually on **June 9-10, 2021**.
 
-<a href="https://www.dis.cwi.nl/"><img src="./assets/imgs/chi_nl_logo.png" width="100"></a>
+<a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo.png" width="100"></a>
 
 ## What is a Post-CHI event?
 
-<span style="color:#f07178">Following the Scottish and German spirit of meeting fellow HCI folks before going to CHI, this year we again aim at bringing the HCI community in the Netherlands together. The goal is to provide an opportunity for researchers to present their accepted CHI 2020 works, and discuss them in a smaller and cozier manner than what the enormity and madness of the CHI ship allows. We also plan on reserving time for HCI outreach talks, where we can all hear more about the different HCI activities in the Netherlands. This could be a broad research or educational overview of HCI activities at your institution. We plan on allocating 10-15 min. per speaker.</span>
+Following the global spirit of meeting fellow HCI folks within a local region, this year CHI NL aims at bringing the HCI community in the Netherlands together after CHI 2021. The goal is to provide an opportunity for researchers to present and discuss their accepted CHI 2021 works in a smaller and cozier manner than what the enormity and madness of the (virtual) CHI ship allows. We are currently still developing the program, but this will include:
 
-Join us for a day of exciting CHI 2021 talks and networking with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists is welcome.
+1. Informal poster sessions
+2. Panel discussions (on CHI Netherlands, trends within CHI, industry)
+3. Social event
+
+Join us for a day of exciting CHI 2021 talks, networking, and collective reflection with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists is welcome.
+
 
 ## How to participate
 
-If you would like to participate as a presenter (CHI work: paper, LBW, demo, ...), presenter (HCI outreach), or attendee, please fill the form to register by clicking the link below. We still have some slots available. A preliminary program can be found [here](program).
-
-Please register by **XX, 2021** to help us organize an exciting (and fun) post-chi event!
-
-[REGISTER](https://forms.gle/TqR1QZuLj6M683g39){: .btn .btn--warning}{:target="\_blank"}
-<!--
-Please <a href="https://forms.gle/TqR1QZuLj6M683g39" target="\_blank" >register </a> to help us organize an exciting (and fun) pre-chi event! -->
+Anyone is free to attend, without being required to submit or present anything. If you wish to present, your presentation(s) can be informal, and we won't ask you to invest any extra effort on top of what you have already done for the CHI conference. Feel free to re-use existing slides or a poster, or just free-form talk about your work and answer questions.
 
 
+If you would like to participate as a presenter (CHI work: paper, LBW, demo, case study...) or attendee, please fill the form to register by clicking the link below.
+
+Please register by **TBA, 2021** to help us organize an exciting (and fun) post-chi event!
+
+[REGISTER](https://forms.gle/AtJaCva57YxfUQKE6){: .btn .btn--warning}{:target="\_blank"}
+
+## Organization
+
+**Minha Lee** - TU Eindhoven <br>
+**Debargha Dey** - TU Eindhoven <br>
+**Ujwal Gadiraju** - TU Delft <br>
+**Jan de Wit** - Tilburg University <br>
+**Lars Lischke** - Elsevier <br>
+**Abdallah El Ali** - CWI
 
 ## Contact
 
-For any additional questions, please contact the EventCHI team ([event[dot]chinl[at]gmail[dot]com](mailto:event.chinl@gmail.com)).
+For any additional questions, please contact the EventCHI NL team ([event[dot]chinl[at]gmail[dot]com](mailto:event.chinl@gmail.com)).
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo.png" width="100"></a>

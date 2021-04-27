@@ -8,14 +8,16 @@ sidebar:
     text: Virtual
 
 layout: single
-title: Dutch Post-CHI 2021
+title: Program Overview
 ---
 
-Please register by **March 6, 2020**.
+TBA
 
-[REGISTER](https://forms.gle/TqR1QZuLj6M683g39){: .btn .btn--warning}{:target="\_blank"}
+<!-- Please register by **March 6, 2020**. -->
 
-## Program
+<!-- [REGISTER](https://forms.gle/TqR1QZuLj6M683g39){: .btn .btn--warning}{:target="\_blank"} -->
+
+<!-- ## Program
 
 ### 11:00 - *Welcome &amp; Coffee*
 
@@ -53,4 +55,4 @@ Please register by **March 6, 2020**.
 
 ### 17:00 - *Wrap Up*
 ---
-### 17:30 - *Social event*
+### 17:30 - *Social event* -->
