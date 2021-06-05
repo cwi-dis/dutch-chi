@@ -12,7 +12,7 @@ header:
 sidebar:
   - title: "Dates"
     image_alt: ""
-    text: "June 9-10, 2021"
+    text: "June 9-10, 2021 <br> 09:00-12:00 CEST"
   - title: "Where:"
     image_alt: ""
     text: Virtual
@@ -21,7 +21,7 @@ layout: single
 title: Dutch Post-CHI 2021
 ---
 
-The Dutch Post-CHI event will take place virtually on **June 9-10, 2021**.
+The Dutch Post-CHI event will take place virtually on **June 9-10, 2021**, from 09:00-12:00 CEST.
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo.png" width="100"></a>
 
@@ -30,10 +30,10 @@ The Dutch Post-CHI event will take place virtually on **June 9-10, 2021**.
 Following the global spirit of meeting fellow HCI folks within a local region, this year CHI NL aims at bringing the HCI community in the Netherlands together after CHI 2021. The goal is to provide an opportunity for researchers to present and discuss their accepted CHI 2021 works in a smaller and cozier manner than what the enormity and madness of the (virtual) CHI ship allows. We are currently still developing the program, but this will include:
 
 1. Informal poster sessions
-2. Panel discussions (on CHI Netherlands, trends within CHI, industry)
-3. Social event
+2. Panel discussions (on CHI Netherlands, trends within CHI, industry panel)
+3. Informal social chat and networking
 
-Join us for a day of exciting CHI 2021 talks, networking, and collective reflection with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists is welcome.
+Join us for two European mornings of exciting CHI 2021 talks, networking, and collective reflection with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists is welcome.
 
 
 ## How to participate
@@ -43,7 +43,7 @@ Anyone is free to attend, without being required to submit or present anything. 
 
 If you would like to participate as a presenter (CHI work: paper, LBW, demo, case study...) or attendee, please fill the form to register by clicking the link below.
 
-Please register by **TBA, 2021** to help us organize an exciting (and fun) post-chi event!
+<!-- Please register to help us organize an exciting (and fun) post-chi event! -->
 
 [REGISTER](https://forms.gle/AtJaCva57YxfUQKE6){: .btn .btn--warning}{:target="\_blank"}
 

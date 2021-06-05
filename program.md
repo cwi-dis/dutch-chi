@@ -11,11 +11,74 @@ layout: single
 title: Program Overview
 ---
 
-TBA
+## Wednesday, June 9
 
-<!-- Please register by **March 6, 2020**. -->
+9:00-9:30 - Introduction and agenda
 
-<!-- [REGISTER](https://forms.gle/TqR1QZuLj6M683g39){: .btn .btn--warning}{:target="\_blank"} -->
+9:30-09:55 - Reflection altogether on CHI 2021 and beyond
+
+*09:55-10:00 - Break*
+
+10:00-10:55 - Poster sessions
+
+- **A Unified Model of Game Design, Through the Lens of User Experience** - Jan de Wit (Tilburg University)
+
+- **Conversational Futures: Emancipating Conversational Interactions for Futures Worth Wanting** - Minha Lee (TU Eindhoven)
+
+- **Refresher Training through Quiz App for capacity building of Community Healthcare Workers or Anganwadi Workers in India** - Arka Majhi (Indian Institute of Technology Bombay)
+
+- **Female by Default? – Exploring the Effect of Voice Assistant Gender and Pitch on Trait and Trust Attribution** - Suzanne Tolmeijer (University of Zurich)
+
+- **Mapping Design Spaces for Audience Participation in Game Live Streaming** - Alina Striner (CWI)
+
+
+*10:55-11:00 - Break*
+
+
+11:00-11:55 - Industry panel
+
+- **Lisa Koeman** (Elsevier)
+- **Frank Meijer** (DEUXERS)
+- **Stefan Manojlović** (TomTom)
+- **Michael Muller** (IBM)
+
+11:55-12:00 - Closing remarks
+
+
+
+
+
+## Thursday, June 10
+
+9:30-9:55 - Welcome
+
+09:55-10:00 - *Break*
+
+10:00-10:55 - Poster sessions
+
+
+- **Note the Highlight: Incorporating Active Reading Tools in a Search as Learning Environment** - <span style="color:#000">Nirmal Roy (TU Delft)</span>
+
+- **NFCSense: Data-Defined Rich-ID Motion Sensing for Fluent Tangible Interaction Using a Commodity NFC Reader** - Rong-Hao Liang (TU Eindhoven)
+
+- **Using Futuring and Fiction to Teach Ethics in HCI Education** - Karin Slegers (Tilburg University)
+
+- **RCEA-360VR: Real-time, Continuous Emotion Annotation in 360° VR Videos for Collecting Precise Viewport-dependent Ground Truth Labels** Tong Xue (Beijing Institute of Technology; CWI)
+
+- **CakeVR: A Social Virtual Reality (VR) Tool for Co-designing Cakes** Jie Li (CWI)
+
+10:55-11:00 - *BREAK*
+
+11:00-11:55 - CHI Nederland AMA
+
+11:55-12:00 - Closing remarks
+
+
+
+
+
+
+
 
 <!-- ## Program
 
