@@ -2,7 +2,7 @@
 sidebar:
   - title: "Dates"
     image_alt: ""
-    text: "June 9-10, 2021"
+    text: "June 9-10, 2021 <br> 09:00-12:00 CEST"
   - title: "Where:"
     image_alt: ""
     text: Virtual
