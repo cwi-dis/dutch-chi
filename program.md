@@ -17,7 +17,7 @@ title: Program Overview
 
 9:30-09:55 - Reflection altogether on CHI 2021 and beyond
 
-*09:55-10:00 - Break*
+<span style="color:orange"> 09:55-10:00 - *Break* </span>
 
 10:00-10:55 - Poster sessions
 
@@ -32,7 +32,8 @@ title: Program Overview
 - **Mapping Design Spaces for Audience Participation in Game Live Streaming** - Alina Striner (CWI)
 
 
-*10:55-11:00 - Break*
+<span style="color:orange"> 10:55-11:00 - *Break* </span>
+
 
 
 11:00-11:55 - Industry panel
@@ -52,7 +53,8 @@ title: Program Overview
 
 9:30-9:55 - Welcome
 
-09:55-10:00 - *Break*
+<span style="color:orange"> 09:55-10:00 - *Break* </span>
+
 
 10:00-10:55 - Poster sessions
 
@@ -67,9 +69,10 @@ title: Program Overview
 
 - **CakeVR: A Social Virtual Reality (VR) Tool for Co-designing Cakes** Jie Li (CWI)
 
-10:55-11:00 - *BREAK*
 
-11:00-11:55 - CHI Nederland AMA
+<span style="color:orange"> 10:55-11:00 - *Break* </span>
+
+11:00-11:55 - CHI Nederland Plenary + AMA
 
 11:55-12:00 - Closing remarks
 
