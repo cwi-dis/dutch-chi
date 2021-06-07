@@ -11,12 +11,10 @@ layout: single
 title: Program Overview
 ---
 
-## Wednesday, June 9
+## Wednesday, June 9 - [Zoom link Day 1](https://tilburguniversity.zoom.us/j/95255101882?pwd=RHhncm9LT1pzeVgyZUF3ZXMydFhsdz09)
 
-[Zoom link Day 1](https://tilburguniversity.zoom.us/j/95255101882?pwd=RHhncm9LT1pzeVgyZUF3ZXMydFhsdz09)
 
-Meeting ID: 952 5510 1882
-Passcode: 9698288741
+
 
 
 9:00-9:30 - Introduction and agenda
@@ -57,9 +55,8 @@ Passcode: 9698288741
 
 
 
-## Thursday, June 10
+## Thursday, June 10 - [Zoom link Day 2](https://tilburguniversity.zoom.us/j/97104864276?pwd=ZWlkV3F2UnY5SXdDdGloTHBKOEFWdz09)
 
-[Zoom link Day 2](https://tilburguniversity.zoom.us/j/97104864276?pwd=ZWlkV3F2UnY5SXdDdGloTHBKOEFWdz09)
 
 9:30-9:55 - Welcome
 
