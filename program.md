@@ -13,8 +13,7 @@ title: Program Overview
 
 ## Wednesday, June 9 - [Zoom link Day 1](https://tilburguniversity.zoom.us/j/95255101882?pwd=RHhncm9LT1pzeVgyZUF3ZXMydFhsdz09)
 
-
-
+[Add Day 1 to Calendar](./assets/chinl_day1.ics)
 
 
 9:00-9:30 - Introduction and agenda
@@ -57,6 +56,7 @@ title: Program Overview
 
 ## Thursday, June 10 - [Zoom link Day 2](https://tilburguniversity.zoom.us/j/97104864276?pwd=ZWlkV3F2UnY5SXdDdGloTHBKOEFWdz09)
 
+[Add Day 2 to Calendar](./assets/chinl_day2.ics)
 
 9:30-9:55 - Welcome
 
@@ -82,50 +82,3 @@ title: Program Overview
 11:00-11:55 - CHI Nederland Plenary + AMA
 
 11:55-12:00 - Closing remarks
-
-
-
-
-
-
-
-
-<!-- ## Program
-
-### 11:00 - *Welcome &amp; Coffee*
-
-### 11:30 - Paper Session 1 (Session chair: XX)
-
-- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
-
-- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
-
-- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
-
----
-### 12:30 - *Break*
----
-
-### 13:30 - Paper Session 2 (Session chair: XX)
-
-- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
-
-- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
-
-- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
-
-
-### 14:30 - Late Breaking Works Session
-
-- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
-
-- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
-
-- **Paper Title** <span style="color:#f07178">Author Name (affiliation)</span>, ...
-
----
-### 15:30 - *Coffee Break*
-
-### 17:00 - *Wrap Up*
----
-### 17:30 - *Social event* -->
