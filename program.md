@@ -22,7 +22,7 @@ title: Program Overview
 
 <span style="color:orange"> 09:55-10:00 - *Break* </span>
 
-10:00-10:55 - Poster sessions
+10:00-10:55 - Paper Pitches & Breakout Discussions
 
 - **A Unified Model of Game Design, Through the Lens of User Experience** - Jan de Wit (Tilburg University)
 
@@ -41,7 +41,7 @@ title: Program Overview
 
 
 
-11:00-11:55 - Industry panel
+11:00-11:55 - Industry Panel: The HCI Road Ahead
 
 - **Lisa Koeman** (Elsevier)
 - **Frank Meijer** (DEUXERS)
@@ -63,7 +63,7 @@ title: Program Overview
 <span style="color:orange"> 09:55-10:00 - *Break* </span>
 
 
-10:00-10:55 - Poster sessions
+10:00-10:55 - Paper Pitches & Breakout Discussions
 
 
 - **Note the Highlight: Incorporating Active Reading Tools in a Search as Learning Environment** - <span style="color:#000">Nirmal Roy (TU Delft)</span>
