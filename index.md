@@ -25,11 +25,11 @@ The Dutch Post-CHI event will take place virtually on **June 9-10, 2021**, from 
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo.png" width="100"></a>
 
-## What is a Post-CHI event?
+## What is this Dutch Post-CHI event?
 
 Following the global spirit of meeting fellow HCI folks within a local region, this year CHI NL aims at bringing the HCI community in the Netherlands together after CHI 2021. The goal is to provide an opportunity for researchers to present and discuss their accepted CHI 2021 works in a smaller and cozier manner than what the enormity and madness of the (virtual) CHI ship allows. We are currently still developing the program, but this will include:
 
-1. Informal poster sessions
+1. CHI 2021 paper pitches & breakout discussions
 2. Panel discussions (on CHI Netherlands, trends within CHI, industry panel)
 3. Informal social chat and networking
 
