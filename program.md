@@ -11,7 +11,7 @@ layout: single
 title: Program Overview
 ---
 
-## Wednesday, June 9 - [Zoom link Day 1](https://tilburguniversity.zoom.us/j/95255101882?pwd=RHhncm9LT1pzeVgyZUF3ZXMydFhsdz09)
+## Wednesday, June 9 - [Zoom link Day 1](https://tilburguniversity.zoom.us/j/95255101882?pwd=RHhncm9LT1pzeVgyZUF3ZXMydFhsdz09) Passcode: 9698288741
 
 [Add Day 1 to Calendar](./assets/chinl_day1.ics)
 
@@ -54,7 +54,7 @@ title: Program Overview
 
 
 
-## Thursday, June 10 - [Zoom link Day 2](https://tilburguniversity.zoom.us/j/97104864276?pwd=ZWlkV3F2UnY5SXdDdGloTHBKOEFWdz09)
+## Thursday, June 10 - [Zoom link Day 2](https://tilburguniversity.zoom.us/j/97104864276?pwd=ZWlkV3F2UnY5SXdDdGloTHBKOEFWdz09) Passcode: 7825304393
 
 [Add Day 2 to Calendar](./assets/chinl_day2.ics)
 
