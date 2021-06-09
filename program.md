@@ -41,7 +41,7 @@ title: Program Overview
 
 
 
-11:00-11:55 - Industry Panel: The HCI Road Ahead
+11:00-11:55 - Industry Panel: Alignment of Academic Research and Practice
 
 - **Lisa Koeman** (Elsevier)
 - **Frank Meijer** (DEUXERS)
