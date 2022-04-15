@@ -2,18 +2,18 @@
 sidebar:
   - title: "Dates"
     image_alt: ""
-    text: "June 2, 2022 <br> 09:00-17:00 CEST"
+    text: "June 9-10, 2021 <br> 09:00-12:00 CEST"
   - title: "Where:"
     image_alt: ""
-    text: CWI (hybrid)
+    text: Virtual
 
 layout: single
-title: Program Overview
+title: Program (Post-CHI 2021 virtual event)
 ---
 
-## TBA
+<!-- ## Wednesday, June 9 - [Zoom link Day 1](https://tilburguniversity.zoom.us/j/95255101882?pwd=RHhncm9LT1pzeVgyZUF3ZXMydFhsdz09) Passcode: 9698288741
 
-<!-- [Add Day 1 to Calendar](./assets/chinl_day1.ics)
+[Add Day 1 to Calendar](./assets/chinl_day1.ics) -->
 
 
 9:00-9:30 - Introduction and agenda
@@ -81,4 +81,4 @@ title: Program Overview
 
 11:00-11:55 - CHI Nederland Plenary + AMA
 
-11:55-12:00 - Closing remarks -->
+11:55-12:00 - Closing remarks

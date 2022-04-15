@@ -7,5 +7,7 @@ main:
   #   url: /callforpapers.html
   - title: "program"
     url: /program.html
+  - title: "(Post-CHI 2021)"
+    url: /post-chi-2021.html
   # - title: "organizers"
   #   url: /committee.html
