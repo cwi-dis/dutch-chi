@@ -1,5 +1,5 @@
 ---
-excerpt: "2 June 2022"
+excerpt: "Hybrid event - June 2, 2022"
 
 header:
 
