@@ -11,16 +11,16 @@ header:
 sidebar:
       - title: "Dates"
         image_alt: ""
-        text: "June 2, 2022 <br> 09:00-17:00 CEST"
+        text: "June 2, 2022 <br> 12:00-17:00 CEST"
       - title: "Where:"
         image_alt: ""
-        text: CWI (hybrid)
+        text: <a href="https://goo.gl/maps/a5i27kuFb2mpfvrM8" target="_blank">CWI, Science Park 123 <br/> 1098 XG, Amsterdam </a>
 
 layout: single
 title: Dutch Post-CHI 2022
 ---
 
-The Dutch Post-CHI event will take place in hybrid format on (tenatively) **June 2, 2022**, from 09:00-17:00 CEST, with a follow-up evening program TBD.
+The Dutch Post-CHI event will take place in hybrid format on (tenatively) **June 2, 2022**, from 12:00-17:00 CEST, with a follow-up evening program TBD.
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo.png" width="100"></a>
 
@@ -45,6 +45,11 @@ If you would like to participate as a presenter (CHI work: paper, LBW, demo, cas
 <!-- Please register to help us organize an exciting (and fun) post-chi event! -->
 
 [REGISTER](https://forms.gle/4muCZxcwHSfi37Cq7){: .btn .btn--warning}{:target="\_blank"}
+
+## Directions to CWI
+
+<a href="https://www.cwi.nl/about/contact/how-reach-cwi-public-transport" target="\_blank" >How to reach CWI by public transport </a> <br/>
+<a href="https://www.cwi.nl/about/contact/how-reach-cwi-car/default-page" target="\_blank" >How to reach CWI by car</a>
 
 ## Organization
 
