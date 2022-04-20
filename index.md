@@ -22,15 +22,16 @@ title: Dutch Post-CHI 2022
 
 The Dutch Post-CHI event will take place in hybrid format on **June 22, 2022**, from 12:00-17:00 CEST, with a follow-up evening program TBD.
 
-<a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo.png" width="100"></a>
+<a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo2.png" width="100"></a>
 
 ## What is this Dutch Post-CHI event?
 
 Following the global spirit of meeting fellow HCI folks within a local region, this year CHI NL aims at bringing the HCI community in the Netherlands together after CHI 2022. The goal is to provide an opportunity for researchers to present and discuss their accepted CHI 2022 works in a smaller and cozier manner than what the enormity and madness of the CHI ship allows. We are currently still developing the program, but this will include:
 
-1. CHI 2022 submission presentations
-2. HCI outreach talks (on topics related to CHI Netherlands, trends within CHI, industry focus, etc.)
-3. Informal social chat and networking + borrel :)
+1. CHI 2022 presentations / posters / demos
+2. Keynote by <a href="http://pembo.xs4all.nl/">Steven Pemberton</a> on (a) historical account and activities of CHI NL (b) his recent 2022 SIGCHI practice award
+3. HCI outreach talks (on topics related to CHI Netherlands, trends within CHI, industry focus, etc.)
+4. Informal social chat and networking + borrel :)
 
 Join us for a full day event of exciting CHI 2022 talks, networking, and collective reflection with fellow HCI researchers in the Netherlands. Everyone from students to professors to industry practitioners to artists is welcome.
 
@@ -62,4 +63,4 @@ If you would like to participate as a presenter (CHI work: paper, LBW, demo, cas
 
 For any additional questions, please contact the EventCHI NL team ([event[dot]chinl[at]gmail[dot]com](mailto:event.chinl@gmail.com)).
 
-<a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo.png" width="100"></a>
+<a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo2.png" width="100"></a>
