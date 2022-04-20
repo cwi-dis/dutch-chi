@@ -1,11 +1,11 @@
 ---
 sidebar:
-  - title: "Dates"
+  - title: "Date"
     image_alt: ""
-    text: "June 2, 2022 <br> 12:00-17:00 CEST"
+    text: "June 22, 2022 <br> 12:00-17:00 CEST"
   - title: "Where:"
     image_alt: ""
-    text: "CWI (hybrid) <br> Science Park 123 <br> 1098XG Amsterdam"
+    text: <a href="https://goo.gl/maps/a5i27kuFb2mpfvrM8" target="_blank">CWI, Science Park 123 <br/> 1098 XG, Amsterdam </a>
 
 layout: single
 title: Program Overview

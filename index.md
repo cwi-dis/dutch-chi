@@ -1,5 +1,5 @@
 ---
-excerpt: "Hybrid event - June 2, 2022"
+excerpt: "Hybrid event - June 22, 2022"
 
 header:
 
@@ -9,9 +9,9 @@ header:
       - label: "Register"
         url: "https://forms.gle/4muCZxcwHSfi37Cq7"
 sidebar:
-      - title: "Dates"
+      - title: "Date"
         image_alt: ""
-        text: "June 2, 2022 <br> 12:00-17:00 CEST"
+        text: "June 22, 2022 <br> 12:00-17:00 CEST"
       - title: "Where:"
         image_alt: ""
         text: <a href="https://goo.gl/maps/a5i27kuFb2mpfvrM8" target="_blank">CWI, Science Park 123 <br/> 1098 XG, Amsterdam </a>
@@ -20,7 +20,7 @@ layout: single
 title: Dutch Post-CHI 2022
 ---
 
-The Dutch Post-CHI event will take place in hybrid format on (tenatively) **June 2, 2022**, from 12:00-17:00 CEST, with a follow-up evening program TBD.
+The Dutch Post-CHI event will take place in hybrid format on **June 22, 2022**, from 12:00-17:00 CEST, with a follow-up evening program TBD.
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo.png" width="100"></a>
 
