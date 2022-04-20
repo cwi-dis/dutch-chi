@@ -1,5 +1,5 @@
 ---
-excerpt: "Hybrid event - June 22, 2022"
+excerpt: "Wednesday, June 22, 2022"
 
 header:
 
@@ -20,7 +20,7 @@ layout: single
 title: Dutch Post-CHI 2022
 ---
 
-The Dutch Post-CHI event will take place in hybrid format on **June 22, 2022**, from 12:00-17:00 CEST, with a follow-up evening program TBD.
+The Dutch Post-CHI event will take place in person at Centrum Wiskunde & Informatica (CWI) in Amsterdam on **Wednesday, June 22, 2022**, from 12:00-17:00 CEST, with a follow-up evening program TBD. We are aiming for some hybrid elements to allow remote interactivity.
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo2.png" width="100"></a>
 
