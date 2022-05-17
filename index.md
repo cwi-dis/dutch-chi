@@ -55,6 +55,7 @@ If you would like to participate as a presenter (CHI work: paper, LBW, demo, cas
 ## Organization
 
 **Ujwal Gadiraju** - TU Delft <br>
+**Thomas Kosch** - Utrecht University <br>
 **Lisa Koeman** - Elsevier <br>
 **Himanshu Verma** - TU Delft <br>
 **Abdallah El Ali** - CWI
