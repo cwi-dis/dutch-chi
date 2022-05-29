@@ -11,7 +11,51 @@ layout: single
 title: Program Overview
 ---
 
-## TBA
+## --DRAFT--
+
+<a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo2.png" width="100"></a>
+
+12:45-13:15 - **Welcome by EventCHI + Participant Introductions**
+
+13:15-14:00 - **Understanding & Designing for People** (Session Chair: TBA)
+
+* [Paper] Understanding and Designing Avatar Biosignal Visualizations for Social VR Entertainment (🎤 Sueyoon Lee, CWI)
+* [Paper] Designing for Everyday Sounds at Home with People with Dementia and their Partners (🎤 Maarten Houben, TU Eindhoven)
+* [LBW] To flip or not to flip: conformity effect across cultures (🎤 Christine Bauer, Utrecht University)
+
+
+14:00-14:45 **Keynote: Steven Pemberton**
+
+<span style="color:orange">14:45-15:00 - (Coffee Break) </span>
+
+15:00-15:45 - **Human-Centered AI** (Session Chair: TBA)
+
+<!-- (each paper/LBW has a slot of 15 mins and presenters have the liberty to choose how they plan to use this time; 5-7 mins presentation + 8-10 mins discussion or any other alternative configuration) -->
+
+* [Paper] For What It’s Worth: Humans Overwrite Their Economic Self-Interest to Avoid Bargaining With AI Systems (🎤 Ujwal Gadiraju, TU Delft)
+* [Paper] How can explainability methods be used to identify failures in computer vision models? (🎤 Agathe Balayn, TU Delft)
+* [Paper] Great Chain of Agents: The Role of Metaphorical Representation of Agents in Conversational Crowdsourcing (🎤 Ujwal Gadiraju, TU Delft)
+
+15:45-16:15 - **Snippets of CHI 2022** (Session Chair: TBA)
+
+* [Reflection] Reflections from CUI@CHI (🎤 Minha Lee - TU Eindhoven)
+
+* [Course] Introduction to Data-Enabled Design (🎤 Peter Lovei and Jacky Bourgeois, Philips Experience Design / TU Eindhoven)
+
+<span style="color:orange">16:15-16:30 - (Coffee Break) </span>
+
+16:30-17:00 - **Emotions and Empathy** (Session Chair: TBA)
+
+* [Paper] Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems (🎤 Ekaterina Stepanova, Simon Fraser University)
+* [LBW] Exploring Emotion Responses toward Pedestrian Crossing Actions for Designing In-vehicle Empathic Interfaces (🎤 Shruti Rao, CWI)
+
+17:00-17:30 - **Reintroducing the Gerrit Van der Veer Prize**
+
+17:30-18:00 - **Get Involved with CHI NL + Closing**
+
+18:00+ - **Drinks / Snacks at Cafe Maslow or Polder**
+
+
 
 <!-- [Add Day 1 to Calendar](./assets/chinl_day1.ics)
 
