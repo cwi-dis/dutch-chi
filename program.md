@@ -40,7 +40,7 @@ title: Program Overview
 
 * [Reflection] Reflections from CUI@CHI (🎤 Minha Lee - TU Eindhoven)
 
-* [Course] Introduction to Data-Enabled Design (🎤 Peter Lovei and Jacky Bourgeois, Philips Experience Design / TU Eindhoven)
+* [Course] Introduction to Data-Enabled Design (🎤 Peter Lovei and Renee Noortman, Philips Experience Design / TU Eindhoven)
 
 <span style="color:orange">16:15-16:30 - (Coffee Break) </span>
 
