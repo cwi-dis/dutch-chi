@@ -13,6 +13,8 @@ title: Program Overview
 
 ## --DRAFT--
 
+We will additionally have three exciting demos running throughout the day. We look forward to welcoming you all!
+
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo2.png" width="100"></a>
 
 <span style="color:orange">12:30-12:45 - (Welcome Coffee) </span>
