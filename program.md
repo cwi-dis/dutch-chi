@@ -61,7 +61,7 @@ title: Program Overview
 
 17:25-18:00 - **Get Involved with CHI NL + Closing**
 
-18:00+ - **Drinks / Snacks at Cafe Maslow or Polder**
+18:00+ - **Drinks / Snacks at CWI or Cafe Maslow / Polder (TBD)**
 
 
 
