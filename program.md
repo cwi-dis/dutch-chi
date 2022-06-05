@@ -5,7 +5,7 @@ sidebar:
     text: "June 22, 2022 <br> 12:00-17:00 CEST"
   - title: "Where:"
     image_alt: ""
-    text: <a href="https://goo.gl/maps/a5i27kuFb2mpfvrM8" target="_blank">CWI, Science Park 123 <br/> 1098 XG, Amsterdam </a>
+    text: <a href="https://goo.gl/maps/a5i27kuFb2mpfvrM8" target="_blank">CWI (Congress Centre)<br/> Science Park 123 <br/> 1098 XG, Amsterdam </a>
 
 layout: single
 title: Program Overview

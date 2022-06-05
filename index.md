@@ -14,13 +14,13 @@ sidebar:
         text: "June 22, 2022 <br> 12:00-17:00 CEST"
       - title: "Where:"
         image_alt: ""
-        text: <a href="https://goo.gl/maps/a5i27kuFb2mpfvrM8" target="_blank">CWI, Science Park 123 <br/> 1098 XG, Amsterdam </a>
+        text: <a href="https://goo.gl/maps/a5i27kuFb2mpfvrM8" target="_blank">CWI (Congress Centre)<br/> Science Park 123 <br/> 1098 XG, Amsterdam </a>
 
 layout: single
 title: Dutch Post-CHI 2022
 ---
 
-The Dutch Post-CHI event will take place in person at Centrum Wiskunde & Informatica (CWI) in Amsterdam on **Wednesday, June 22, 2022**, from 12:00-17:00 CEST, with a follow-up evening program TBD. 
+The Dutch Post-CHI event will take place in person at Centrum Wiskunde & Informatica (CWI) at the Congress Centre (Eulerzaal) in Amsterdam on **Wednesday, June 22, 2022**, from 12:00-17:00 CEST, with a follow-up evening program TBD.
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo2.png" width="100"></a>
 
@@ -51,6 +51,8 @@ If you would like to participate as a presenter (CHI work: paper, LBW, demo, cas
 
 <a href="https://www.cwi.nl/about/contact/how-reach-cwi-public-transport" target="\_blank" >How to reach CWI by public transport </a> <br/>
 <a href="https://www.cwi.nl/about/contact/how-reach-cwi-car/default-page" target="\_blank" >How to reach CWI by car</a>
+
+The event will take place at the Congress Centre adjacent to the CWI main entrance.
 
 ## Organization
 
