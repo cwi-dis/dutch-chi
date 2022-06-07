@@ -17,7 +17,7 @@ We will additionally have three exciting demos running throughout the day. We lo
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo2.png" width="100"></a>
 
-<!-- <span style="color:orange">12:30-12:45 - (Welcome Coffee) </span> -->
+<span style="color:orange">12:30-12:45 - (Welcome Coffee) </span>
 
 12:45-13:15 - **Welcome by EventCHI + Participant Introductions**
 
