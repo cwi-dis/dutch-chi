@@ -6,8 +6,8 @@ header:
   overlay_image: /assets/imgs/cwi_1.jpg
   overlay_filter: rgba(0, 0, 0, 0.3)
   actions:
-      - label: "Register"
-        url: "https://forms.gle/4muCZxcwHSfi37Cq7"
+      - label: "EVENT IS FULL"
+        url: "javascript:void(0)"
 sidebar:
       - title: "Date"
         image_alt: ""
@@ -41,11 +41,13 @@ Join us for a full day event of exciting CHI 2022 talks, networking, and collect
 Anyone is free to attend, without being required to submit or present anything. If you wish to present, your presentation(s) can be informal, and we won't ask you to invest any extra effort on top of what you have already done for the CHI conference. Feel free to re-use existing slides or a poster, or just free-form talk about your work and answer questions.
 
 
-If you would like to participate as a presenter (CHI work: paper, LBW, demo, case study; HCI Outreach) or attendee, please fill the form to register by clicking the link below.
+If you would still like to participate as an attendee, please get in touch by email.
+ <!-- presenter (CHI work: paper, LBW, demo, case study; HCI Outreach) or attendee, please fill the form to register by clicking the link below. -->
 
 <!-- Please register to help us organize an exciting (and fun) post-chi event! -->
 
-[REGISTER](https://forms.gle/4muCZxcwHSfi37Cq7){: .btn .btn--warning}{:target="\_blank"}
+<!-- [EVENT IS FULL](https://forms.gle/4muCZxcwHSfi37Cq7){: .btn .disabled .btn--warning}{:target="\_blank"} -->
+<button style="background:#d67f05;color:white;border-radius: 3px;border: none;padding: 0.5em 1em;" type="button" disabled>EVENT IS FULL</button>
 
 ## Directions to CWI
 
