@@ -58,11 +58,16 @@ The event will take place at the Congress Centre adjacent to the CWI main entran
 
 ## Organization
 
-**Ujwal Gadiraju** - TU Delft <br>
-**Thomas Kosch** - Utrecht University <br>
-**Lisa Koeman** - Elsevier <br>
-**Himanshu Verma** - TU Delft <br>
-**Abdallah El Ali** - CWI
+**<a href="http://ujwalgadiraju.com/" target="\_blank">Ujwal Gadiraju</a>** - TU Delft <br>
+**<a href="https://thomaskosch.com/" target="\_blank">Thomas Kosch</a>** - Utrecht University <br>
+**<a href="https://lisakoeman.nl/" target="\_blank">Lisa Koeman</a>** - Elsevier <br>
+**<a href="https://vermahimanshu.com/" target="\_blank">Himanshu Verma</a>** - TU Delft <br>
+**<a href="https://abdoelali.com/" target="\_blank">Abdallah El Ali</a>** - CWI
+
+## Sponsors
+
+<a href="https://www.cwi.nl/"><img src="./assets/imgs/cwi-logo.png" width="200"></a>
+
 
 ## Contact
 
