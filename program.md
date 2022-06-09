@@ -23,14 +23,14 @@ We will additionally have three exciting demos running throughout the day. We lo
 
 13:15-13:45 - **Understanding & Designing for People** (Session Chair: TBA)
 
-* [Paper] Understanding and Designing Avatar Biosignal Visualizations for Social VR Entertainment (🎤 Sueyoon Lee, CWI)
-* [Paper] Designing for Everyday Sounds at Home with People with Dementia and their Partners (🎤 Maarten Houben, TU Eindhoven)
-* [LBW] To flip or not to flip: conformity effect across cultures (🎤 Christine Bauer, Utrecht University)
+* [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517451" target="\_blank">Understanding and Designing Avatar Biosignal Visualizations for Social VR Entertainment</a> (🎤 Sueyoon Lee, CWI)
+* [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3501993" target="\_blank">Designing for Everyday Sounds at Home with People with Dementia and their Partners</a> (🎤 Maarten Houben, TU Eindhoven)
+* [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519662" target="\_blank">To flip or not to flip: conformity effect across cultures</a> (🎤 Christine Bauer, Utrecht University)
 
 13:45-14:05 - **Bio HCI** (Session Chair: TBA)
 
-* [Paper] Navigating Imaginaries of DNA-Based Digital Data Storage (🎤 Raphael Kim, TU Delft)
-* [Paper] Flavorium: An Exploration of Flavobacteria's Living Aesthetics for Living Color Interfaces (🎤 Eduard Groutars, TU Delft)
+* [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3501911" target="\_blank">Navigating Imaginaries of DNA-Based Digital Data Storage</a> (🎤 Raphael Kim, TU Delft)
+* [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517713" target="\_blank">Flavorium: An Exploration of Flavobacteria's Living Aesthetics for Living Color Interfaces</a> (🎤 Eduard Groutars, TU Delft)
 
 
 14:05-14:50 **Keynote: Steven Pemberton**
@@ -39,25 +39,25 @@ We will additionally have three exciting demos running throughout the day. We lo
 
 15:05-15:45 - **Human-Centered AI** (Session Chair: TBA)
 
-* [Paper] For What It’s Worth: Humans Overwrite Their Economic Self-Interest to Avoid Bargaining With AI Systems (🎤 Ujwal Gadiraju, TU Delft)
-* [Paper] How can explainability methods be used to identify failures in computer vision models? (🎤 Agathe Balayn, TU Delft)
-* [Paper] Great Chain of Agents: The Role of Metaphorical Representation of Agents in Conversational Crowdsourcing (🎤 Ujwal Gadiraju, TU Delft)
-* [Paper] AI Beyond Deus ex Machina - Reimagining Intelligence in Future Cities with Urban Experts (🎤Himanshu Verma, TU Delft; Hamed Alavi, UvA)
+* [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517734" target="\_blank">For What It’s Worth: Humans Overwrite Their Economic Self-Interest to Avoid Bargaining With AI Systems</a> (🎤 Ujwal Gadiraju, TU Delft)
+* [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517474" target="\_blank">How can explainability methods be used to identify failures in computer vision models?</a> (🎤 Agathe Balayn, TU Delft)
+* [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517653" target="\_blank">Great Chain of Agents: The Role of Metaphorical Representation of Agents in Conversational Crowdsourcing</a> (🎤 Ujwal Gadiraju, TU Delft)
+* [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517502" target="\_blank">AI Beyond Deus ex Machina - Reimagining Intelligence in Future Cities with Urban Experts</a> (🎤Himanshu Verma, TU Delft; Hamed Alavi, UvA)
 
 15:45-16:25 - **Voice Interfaces and Data-Centric Design** (Session Chair: TBA)
 
-* [LBW] Conversation-Based Hybrid User Interface for Structured Qualitative Survey: A Pilot Study Using Repertory Grid (🎤 Yunxing Liu, TU Eindhoven)
-* [Reflection] Looking back at CUI@CHI (🎤 Minha Lee - TU Eindhoven)
-* [SIG] Data-Centric Design  (🎤Jacky Bourgeois, TU Delft)
-* [Course] Introduction to Data-Enabled Design (🎤 Peter Lovei and Renee Noortman, Philips Experience Design / TU Eindhoven)
+* [LBW] <a href="https://dl.acm.org/doi/abs/10.1145/3491101.3519690" target="\_blank">Conversation-Based Hybrid User Interface for Structured Qualitative Survey: A Pilot Study Using Repertory Grid</a> (🎤 Yunxing Liu, TU Eindhoven)
+* [Reflection] <a href="https://www.conversationaluserinterfaces.org/workshops/CHI2022/" target="\_blank">Looking back at CUI@CHI</a> (🎤 Minha Lee - TU Eindhoven)
+* [SIG] <a href="https://dl.acm.org/doi/abs/10.1145/3491101.3516403" target="\_blank">Data-Centric Design</a>  (🎤Jacky Bourgeois, TU Delft)
+* [Course] <a href="https://chi22.data-enabled.com/" target="\_blank">Introduction to Data-Enabled Design</a> (🎤 Peter Lovei and Renee Noortman, Philips Experience Design / TU Eindhoven)
 
 <span style="color:orange">16:25-16:40 - (Coffee Break) </span>
 
 16:40-17:10 - **Emotions and Empathy** (Session Chair: TBA)
 
-* [Paper] Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems (🎤 Ekaterina Stepanova, Simon Fraser University)
-* [LBW] Exploring Emotion Responses toward Pedestrian Crossing Actions for Designing In-vehicle Empathic Interfaces (🎤 Shruti Rao, CWI)
-* [Reflection] Workshop on Empathy Centric Design at Scale (🎤 Andrea Mauri, TU Delft)
+* [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517580" target="\_blank">Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems</a> (🎤 Ekaterina Stepanova, Simon Fraser University)
+* [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519764" target="\_blank">Exploring Emotion Responses toward Pedestrian Crossing Actions for Designing In-vehicle Empathic Interfaces</a> (🎤 Shruti Rao, CWI)
+* [Reflection] <a href="https://dl.acm.org/doi/fullHtml/10.1145/3491101.3503744" target="\_blank">Workshop on Empathy Centric Design at Scale</a> (🎤 Andrea Mauri, TU Delft)
 
 17:10-17:25 - **Reintroducing the Gerrit Van der Veer Prize**
 
