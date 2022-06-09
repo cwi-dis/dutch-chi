@@ -56,6 +56,14 @@ If you would still like to participate as an attendee, please get in touch by em
 
 The event will take place at the Congress Centre adjacent to the CWI main entrance.
 
+## Sponsors
+
+<a href="https://www.cwi.nl/"><img src="./assets/imgs/cwi-logo.png" width="200"></a>
+
+## Code of Conduct
+
+Read our <a href="https://chinederland.nl/chi-nl-code-of-conduct" target="\_blank">Code of Conduct</a>.
+
 ## Organization
 
 **<a href="http://ujwalgadiraju.com/" target="\_blank">Ujwal Gadiraju</a>** - TU Delft <br>
@@ -63,11 +71,6 @@ The event will take place at the Congress Centre adjacent to the CWI main entran
 **<a href="https://lisakoeman.nl/" target="\_blank">Lisa Koeman</a>** - Elsevier <br>
 **<a href="https://vermahimanshu.com/" target="\_blank">Himanshu Verma</a>** - TU Delft <br>
 **<a href="https://abdoelali.com/" target="\_blank">Abdallah El Ali</a>** - CWI
-
-## Sponsors
-
-<a href="https://www.cwi.nl/"><img src="./assets/imgs/cwi-logo.png" width="200"></a>
-
 
 ## Contact
 

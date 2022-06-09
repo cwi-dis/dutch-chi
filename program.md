@@ -11,9 +11,7 @@ layout: single
 title: Program Overview
 ---
 
-## --DRAFT--
-
-We will additionally have three exciting demos running throughout the day. We look forward to welcoming you all!
+We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! We will additionally have three exciting demos running throughout the day, so do check out the booths. 
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo2.png" width="100"></a>
 
@@ -63,8 +61,9 @@ We will additionally have three exciting demos running throughout the day. We lo
 
 17:25-18:00 - **Get Involved with CHI NL + Closing**
 
-18:00+ - **Drinks / Snacks at CWI or Cafe Maslow / Polder (TBD)**
+18:00-19:00 - **Drinks / Snacks ('Borrel') at CWI**
 
+19:00+ - **Dinner somewhere (e.g., Maslow or Polder)**
 
 
 
