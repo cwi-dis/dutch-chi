@@ -11,7 +11,7 @@ layout: single
 title: Program Overview
 ---
 
-We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! We will additionally have three exciting demos running throughout the day, so do check out the booths.
+We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Each presentation will last 10 min., and includes time for some questions. We will additionally have three exciting demos running throughout the day, so do check out the booths.
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo2.png" width="100"></a>
 
