@@ -19,11 +19,11 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 
 12:45-13:15 - **Welcome by EventCHI + Participant Introductions**
 
-13:15-13:45 - **Understanding & Designing for People** (Session Chair: TBA)
+13:15-13:45 - **Emotions and Empathy** (Session Chair: TBA)
 
-* [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517451" target="\_blank">Understanding and Designing Avatar Biosignal Visualizations for Social VR Entertainment</a> (🎤 Sueyoon Lee, CWI)
-* [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3501993" target="\_blank">Designing for Everyday Sounds at Home with People with Dementia and their Partners</a> (🎤 Maarten Houben, TU Eindhoven)
-* [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519662" target="\_blank">To flip or not to flip: conformity effect across cultures</a> (🎤 Christine Bauer, Utrecht University)
+* [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517580" target="\_blank">Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems</a> (🎤 Ekaterina Stepanova, Simon Fraser University)
+* [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519764" target="\_blank">Exploring Emotion Responses toward Pedestrian Crossing Actions for Designing In-vehicle Empathic Interfaces</a> (🎤 Shruti Rao, CWI)
+* [Reflection] <a href="https://dl.acm.org/doi/fullHtml/10.1145/3491101.3503744" target="\_blank">Workshop on Empathy Centric Design at Scale</a> (🎤 Andrea Mauri, TU Delft)
 
 13:45-14:05 - **Bio HCI** (Session Chair: TBA)
 
@@ -51,11 +51,11 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 
 <span style="color:orange">16:25-16:40 - (Coffee Break) </span>
 
-16:40-17:10 - **Emotions and Empathy** (Session Chair: TBA)
+16:40-17:10 - **Understanding & Designing for People** (Session Chair: TBA)
 
-* [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517580" target="\_blank">Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems</a> (🎤 Ekaterina Stepanova, Simon Fraser University)
-* [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519764" target="\_blank">Exploring Emotion Responses toward Pedestrian Crossing Actions for Designing In-vehicle Empathic Interfaces</a> (🎤 Shruti Rao, CWI)
-* [Reflection] <a href="https://dl.acm.org/doi/fullHtml/10.1145/3491101.3503744" target="\_blank">Workshop on Empathy Centric Design at Scale</a> (🎤 Andrea Mauri, TU Delft)
+* [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517451" target="\_blank">Understanding and Designing Avatar Biosignal Visualizations for Social VR Entertainment</a> (🎤 Sueyoon Lee, CWI)
+* [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3501993" target="\_blank">Designing for Everyday Sounds at Home with People with Dementia and their Partners</a> (🎤 Maarten Houben, TU Eindhoven)
+* [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519662" target="\_blank">To flip or not to flip: conformity effect across cultures</a> (🎤 Christine Bauer, Utrecht University)
 
 17:10-17:25 - **Reintroducing the Gerrit Van der Veer Prize**
 
