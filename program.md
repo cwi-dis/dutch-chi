@@ -19,10 +19,11 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 
 12:45-13:15 - **Welcome by EventCHI + Participant Introductions**
 
-13:15-13:45 - **Emotions and Empathy** (Session Chair: TBA)
+13:15-13:45 - **Emotion, Empathy, and Shape-Changing UIs** (Session Chair: TBA)
 
 * [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517580" target="\_blank">Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems</a> (🎤 Ekaterina Stepanova, Simon Fraser University)
-* [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519764" target="\_blank">Exploring Emotion Responses toward Pedestrian Crossing Actions for Designing In-vehicle Empathic Interfaces</a> (🎤 Shruti Rao, CWI)
+* [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519769" target="\_blank">Dynamic Robotic Fibers: Liquid Crystal Elastomers for Programmable and Reversible Shape-Changing Behaviors. </a> (🎤 Amy Winters, TU Eindhoven)
+<!-- * [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519764" target="\_blank">Exploring Emotion Responses toward Pedestrian Crossing Actions for Designing In-vehicle Empathic Interfaces</a> (🎤 Shruti Rao, CWI) -->
 * [Reflection] <a href="https://dl.acm.org/doi/fullHtml/10.1145/3491101.3503744" target="\_blank">Workshop on Empathy Centric Design at Scale</a> (🎤 Andrea Mauri, TU Delft)
 
 13:45-14:05 - **Bio HCI** (Session Chair: TBA)
