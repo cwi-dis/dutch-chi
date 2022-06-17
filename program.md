@@ -64,7 +64,7 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 
 18:00-19:00 - **Drinks / Snacks ('Borrel') at CWI**
 
-19:00+ - **Dinner somewhere (e.g., Maslow or Polder)**
+19:30 - **Dinner at <a href="https://www.maslowcafe.nl/" target="\_blank">Maslow Café</a>**
 
 
 
