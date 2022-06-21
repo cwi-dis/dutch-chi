@@ -66,10 +66,16 @@ Read our <a href="https://chinederland.nl/chi-nl-code-of-conduct" target="\_blan
 
 ## Organization
 
+### EventCHI Team
 **<a href="http://ujwalgadiraju.com/" target="\_blank">Ujwal Gadiraju</a>** - TU Delft <br>
 **<a href="https://thomaskosch.com/" target="\_blank">Thomas Kosch</a>** - Utrecht University <br>
 **<a href="https://lisakoeman.nl/" target="\_blank">Lisa Koeman</a>** - Elsevier <br>
 **<a href="https://vermahimanshu.com/" target="\_blank">Himanshu Verma</a>** - TU Delft <br>
+**<a href="https://abdoelali.com/" target="\_blank">Abdallah El Ali</a>** - CWI
+
+### Local Chairs
+
+**<a href="https://www.linkedin.com/in/christelvandam/" target="\_blank">Christel van Dam</a>** - CWI <br>
 **<a href="https://abdoelali.com/" target="\_blank">Abdallah El Ali</a>** - CWI
 
 ## Contact
