@@ -19,14 +19,14 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 
 12:45-13:15 - **Welcome by EventCHI + Participant Introductions**
 
-13:15-13:45 - **Emotion, Empathy, and Shape-Changing UIs** (Session Chair: TBA)
+13:15-13:45 - **Emotion, Empathy, and Shape-Changing UIs** (Session Chair: Thomas Kosch, Utrecht University)
 
 * [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517580" target="\_blank">Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems</a> (🎤 Ekaterina Stepanova, Simon Fraser University)
 * [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519769" target="\_blank">Dynamic Robotic Fibers: Liquid Crystal Elastomers for Programmable and Reversible Shape-Changing Behaviors. </a> (🎤 Amy Winters, TU Eindhoven)
 <!-- * [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519764" target="\_blank">Exploring Emotion Responses toward Pedestrian Crossing Actions for Designing In-vehicle Empathic Interfaces</a> (🎤 Shruti Rao, CWI) -->
 * [Reflection] <a href="https://dl.acm.org/doi/fullHtml/10.1145/3491101.3503744" target="\_blank">Workshop on Empathy Centric Design at Scale</a> (🎤 Yen-Chia Hsu, UvA)
 
-13:45-14:05 - **Bio HCI** (Session Chair: TBA)
+13:45-14:05 - **Bio HCI** (Session Chair: Himanshu Verma, TU Delft)
 
 * [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3501911" target="\_blank">Navigating Imaginaries of DNA-Based Digital Data Storage</a> (🎤 Raphael Kim, TU Delft)
 * [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517713" target="\_blank">Flavorium: An Exploration of Flavobacteria's Living Aesthetics for Living Color Interfaces</a> (🎤 Eduard Groutars, TU Delft)
@@ -36,14 +36,14 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 
 <span style="color:orange">14:50-15:05 - (Coffee Break) </span>
 
-15:05-15:45 - **Human-Centered AI** (Session Chair: TBA)
+15:05-15:45 - **Human-Centered AI** (Session Chair: Ujwal Gadiraju, TU Delft)
 
 * [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517734" target="\_blank">For What It’s Worth: Humans Overwrite Their Economic Self-Interest to Avoid Bargaining With AI Systems</a> (🎤 Ujwal Gadiraju, TU Delft)
 * [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517474" target="\_blank">How can explainability methods be used to identify failures in computer vision models?</a> (🎤 Agathe Balayn, TU Delft)
 * [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517653" target="\_blank">Great Chain of Agents: The Role of Metaphorical Representation of Agents in Conversational Crowdsourcing</a> (🎤 Ujwal Gadiraju, TU Delft)
 * [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517502" target="\_blank">AI Beyond Deus ex Machina - Reimagining Intelligence in Future Cities with Urban Experts</a> (🎤Himanshu Verma, TU Delft; Hamed Alavi, UvA)
 
-15:45-16:25 - **Voice Interfaces and Data-Centric Design** (Session Chair: TBA)
+15:45-16:25 - **Voice Interfaces and Data-Centric Design** (Session Chair: Danny Plass, Saxion UAS)
 
 * [LBW] <a href="https://dl.acm.org/doi/abs/10.1145/3491101.3519690" target="\_blank">Conversation-Based Hybrid User Interface for Structured Qualitative Survey: A Pilot Study Using Repertory Grid</a> (🎤 Yunxing Liu, TU Eindhoven)
 * [Reflection] <a href="https://www.conversationaluserinterfaces.org/workshops/CHI2022/" target="\_blank">Looking back at CUI@CHI</a> (🎤 Minha Lee - TU Eindhoven)
@@ -52,7 +52,7 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 
 <span style="color:orange">16:25-16:40 - (Coffee Break) </span>
 
-16:40-17:10 - **Understanding & Designing for People** (Session Chair: TBA)
+16:40-17:10 - **Understanding & Designing for People** (Session Chair: Judith Good, University of Amsterdam)
 
 * [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517451" target="\_blank">Understanding and Designing Avatar Biosignal Visualizations for Social VR Entertainment</a> (🎤 Sueyoon Lee, CWI)
 * [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3501993" target="\_blank">Designing for Everyday Sounds at Home with People with Dementia and their Partners</a> (🎤 Maarten Houben, TU Eindhoven)
