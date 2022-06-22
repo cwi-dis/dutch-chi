@@ -26,7 +26,7 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 * [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519662" target="\_blank">To flip or not to flip: conformity effect across cultures</a> (🎤 Christine Bauer, Utrecht University)
 
 <!-- * [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519764" target="\_blank">Exploring Emotion Responses toward Pedestrian Crossing Actions for Designing In-vehicle Empathic Interfaces</a> (🎤 Shruti Rao, CWI) -->
-* [Reflection] <a href="https://dl.acm.org/doi/fullHtml/10.1145/3491101.3503744" target="\_blank">Workshop on Empathy Centric Design at Scale</a> (🎤 Yen-Chia Hsu, UvA)
+
 
 13:45-14:05 - **Bio HCI** (Session Chair: Himanshu Verma, TU Delft)
 
@@ -57,7 +57,10 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 16:40-17:10 - **Emotion, Empathy, and Shape-Changing UIs** (Session Chair: Thomas Kosch, Utrecht University)
 
 * [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517580" target="\_blank">Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems</a> (🎤 Ekaterina Stepanova, Simon Fraser University)
+* [Reflection] <a href="https://dl.acm.org/doi/fullHtml/10.1145/3491101.3503744" target="\_blank">Workshop on Empathy Centric Design at Scale</a> (🎤 Yen-Chia Hsu, UvA)
 * [LBW] <a href="https://dl.acm.org/doi/10.1145/3491101.3519769" target="\_blank">Dynamic Robotic Fibers: Liquid Crystal Elastomers for Programmable and Reversible Shape-Changing Behaviors. </a> (🎤 Amy Winters, TU Eindhoven)
+
+
 
 17:10-17:25 - **Reintroducing the Gerrit Van der Veer Prize**
 
