@@ -38,23 +38,23 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 
 <span style="color:orange">14:50-15:05 - (Coffee Break) </span>
 
-15:05-15:45 - **Human-Centered AI** (Session Chair: Ujwal Gadiraju, TU Delft)
+15:05-16:10 - **Human-Centered AI** (Session Chair: Ujwal Gadiraju, TU Delft)
 
 * [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517734" target="\_blank">For What It’s Worth: Humans Overwrite Their Economic Self-Interest to Avoid Bargaining With AI Systems</a> (🎤 Ujwal Gadiraju, TU Delft)
 * [Paper] <a href="https://dl.acm.org/doi/10.1145/3491102.3517474" target="\_blank">How can explainability methods be used to identify failures in computer vision models?</a> (🎤 Agathe Balayn, TU Delft)
 * [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517653" target="\_blank">Great Chain of Agents: The Role of Metaphorical Representation of Agents in Conversational Crowdsourcing</a> (🎤 Ujwal Gadiraju, TU Delft)
 * [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517502" target="\_blank">AI Beyond Deus ex Machina - Reimagining Intelligence in Future Cities with Urban Experts</a> (🎤Himanshu Verma, TU Delft; Hamed Alavi, UvA)
 
-15:45-16:25 - **Voice Interfaces and Data-Centric Design** (Session Chair: Danny Plass, Saxion UAS)
+16:10-16:50 - **Voice Interfaces and Data-Centric Design** (Session Chair: Danny Plass, Saxion UAS)
 
 * [LBW] <a href="https://dl.acm.org/doi/abs/10.1145/3491101.3519690" target="\_blank">Conversation-Based Hybrid User Interface for Structured Qualitative Survey: A Pilot Study Using Repertory Grid</a> (🎤 Yunxing Liu, TU Eindhoven)
 * [Reflection] <a href="https://www.conversationaluserinterfaces.org/workshops/CHI2022/" target="\_blank">Looking back at CUI@CHI</a> (🎤 Minha Lee - TU Eindhoven)
 * [SIG] <a href="https://dl.acm.org/doi/abs/10.1145/3491101.3516403" target="\_blank">Data-Centric Design</a>  (🎤Jacky Bourgeois, TU Delft)
 * [Course] <a href="https://chi22.data-enabled.com/" target="\_blank">Introduction to Data-Enabled Design</a> (🎤 Peter Lovei and Renee Noortman, Philips Experience Design / TU Eindhoven)
 
-<span style="color:orange">16:25-16:40 - (Coffee Break) </span>
+<span style="color:orange">16:50-17:10 - (Coffee Break) </span>
 
-16:40-17:10 - **Emotion, Empathy, and Shape-Changing UIs** (Session Chair: Thomas Kosch, Utrecht University)
+17:10-17:40 - **Emotion, Empathy, and Shape-Changing UIs** (Session Chair: Thomas Kosch, Utrecht University)
 
 * [Paper] <a href="https://dl.acm.org/doi/abs/10.1145/3491102.3517580" target="\_blank">Strategies for Fostering a Genuine Feeling of Connection in Technologically Mediated Systems</a> (🎤 Ekaterina Stepanova, Simon Fraser University)
 * [Reflection] <a href="https://dl.acm.org/doi/fullHtml/10.1145/3491101.3503744" target="\_blank">Workshop on Empathy Centric Design at Scale</a> (🎤 Yen-Chia Hsu, UvA)
@@ -62,9 +62,9 @@ We look forward to welcoming you for an exciting Dutch Post-CHI 2022 program! Ea
 
 
 
-17:10-17:25 - **Reintroducing the Gerrit Van der Veer Prize**
+17:40-17:50 - **Reintroducing the Gerrit Van der Veer Prize**
 
-17:25-18:00 - **Get Involved with CHI NL + Closing**
+17:50-18:00 - **Get Involved with CHI NL + Closing**
 
 18:00-19:00 - **Drinks / Snacks ('Borrel') at CWI**
 
