@@ -20,7 +20,7 @@ layout: single
 title: Dutch Post-CHI 2022
 ---
 
-The Dutch Post-CHI event will take place in person at Centrum Wiskunde & Informatica (CWI) at the Congress Centre (Eulerzaal) in Amsterdam on **Wednesday, June 22, 2022**, from 12:00-17:00 CEST, with a follow-up evening program TBD.
+The Dutch Post-CHI event took place in person at Centrum Wiskunde & Informatica (CWI) at the Congress Centre (Eulerzaal) in Amsterdam on **Wednesday, June 22, 2022**, from 12:30-18:00 CEST, with a follow-up evening program afterward.
 
 <a href="https://www.chinederland.nl/"><img src="./assets/imgs/chi_nl_logo2.png" width="100"></a>
 
